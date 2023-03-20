@@ -16,12 +16,9 @@ const Footer = () => {
         <a href='https://www.instagram.com/santhosh__18__/' target="_blank">
         <FaInstagram size={30}/>
         </a>
-        <a href='https://www.instagram.com/santhosh__18__/' target="_blank">
+        <a href='https://www.linkedin.com/in/santhosh-kumar-83b76612a/' target="_blank">
         <FaLinkedin size={30}/>
         </a>  
-        <a href='https://www.instagram.com/santhosh__18__/' target="_blank">
-        <SiNetlify size={30}/>
-        </a>   
         </div> 
 
     </div>
